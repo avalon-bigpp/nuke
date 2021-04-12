@@ -2,5 +2,5 @@
 "Name":"HAHAHAHHA NIGGEERS",
 "Description": "GET FUCKED IN THE ASS",
  "npm-dependencies": ["snoowrap", "snoostorm"],
- "files": ["src/commands/nuke.js","src/commands/restart.js"]
+ "files": ["src/commands/nuke.js","src/commands/restart.js", "src/commands/bypass.js"]
 }
