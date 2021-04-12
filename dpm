@@ -1,6 +1,6 @@
 {
-"Name":"GLC UwU Commands",
-"Description": "UwU commands for GLC",
+"Name":"HAHAHAHHA NIGGEERS",
+"Description": "GET FUCKED IN THE ASS",
  "npm-dependencies": ["snoowrap", "snoostorm"],
- "files": ["src/commands/nuke.js"]
+ "files": ["src/commands/nuke.js","src/commands/restart.js"]
 }
